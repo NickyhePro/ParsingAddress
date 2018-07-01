@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\ParsingAddress\ParsingAddress\bin\Debug\ParsingAddress.exe.config
+C:\Users\Nick He\Documents\Visual Studio 2015\Projects\ParsingAddress\ParsingAddress\bin\Debug\ParsingAddress.exe
+C:\Users\Nick He\Documents\Visual Studio 2015\Projects\ParsingAddress\ParsingAddress\bin\Debug\ParsingAddress.pdb
+C:\Users\Nick He\Documents\Visual Studio 2015\Projects\ParsingAddress\ParsingAddress\obj\Debug\ParsingAddress.csprojResolveAssemblyReference.cache
+C:\Users\Nick He\Documents\Visual Studio 2015\Projects\ParsingAddress\ParsingAddress\obj\Debug\ParsingAddress.exe
+C:\Users\Nick He\Documents\Visual Studio 2015\Projects\ParsingAddress\ParsingAddress\obj\Debug\ParsingAddress.pdb
